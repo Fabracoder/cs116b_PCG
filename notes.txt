@@ -1,0 +1,8 @@
+I should take a multi agent approach to this.
+begin with  
+    building agent?
+    road agent
+cross referance with perlin/simplex noise generation for constancy
+
+scale = 1 : 1 foot
+
